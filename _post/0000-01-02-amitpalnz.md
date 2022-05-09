@@ -2,4 +2,4 @@
 layout slide
 title: "Welcome to our second slide"
 ---
-Your text
+Learning new features in Github
